@@ -14,7 +14,7 @@
 | --------------------- | -------------------- | ------- |
 | Solução 1 (2 threads) | 20                   | 1.1323  |
 | Solução 2 (2 threads) | 20                   | 1.1530  |
-| Solução 1 (2 threads) | 20                   | 1.2911  |
+| Solução 1 (2 threads) | 40                   | 1.2911  |
 | Solução 2 (2 threads) | 40                   | 1.2844  |
-| Solução 1 (2 threads) | 40                   | 1.4739  |
-| Solução 2 (2 threads) | 40                   | 1.4652  |
+| Solução 1 (2 threads) | 80                   | 1.4739  |
+| Solução 2 (2 threads) | 80                   | 1.4652  |
