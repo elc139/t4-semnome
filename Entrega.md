@@ -15,3 +15,7 @@ Links para os códigos desenvolvidos:
 Link para slides do trabalho desenvolvido:
 
 [Apresentação T4](Slides.pdf)
+
+### Referências:
+
+[Tutorial OMP](https://computing.llnl.gov/tutorials/openMP/)
